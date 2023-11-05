@@ -76,8 +76,6 @@ p {
 }
 .order_flex {
   font-family: "Lexend Deca", sans-serif;
-
-  margin-bottom: auto;
 }
 .order1,
 .order2,
@@ -124,6 +122,7 @@ p {
     top: 0;
     left: 0;
     margin: 0;
+    margin-left: 2%;
   }
   .hero_img img {
     width: 100%;
@@ -146,7 +145,7 @@ p {
     align-items: flex-start;
     justify-content: start;
     text-align: start;
-    margin-bottom: 20%;
+    margin-bottom: 15%;
   }
 
   .order_flex {
@@ -160,7 +159,6 @@ p {
   .order2,
   .order1 {
     text-align: start;
-    margin-bottom: auto;
   }
 
   .stats_heading {
